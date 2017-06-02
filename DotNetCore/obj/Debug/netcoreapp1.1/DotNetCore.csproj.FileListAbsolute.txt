@@ -1,0 +1,9 @@
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\bin\Debug\netcoreapp1.1\DotNetCore.deps.json
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\bin\Debug\netcoreapp1.1\DotNetCore.runtimeconfig.json
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\bin\Debug\netcoreapp1.1\DotNetCore.runtimeconfig.dev.json
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\bin\Debug\netcoreapp1.1\DotNetCore.dll
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\bin\Debug\netcoreapp1.1\DotNetCore.pdb
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\obj\Debug\netcoreapp1.1\DotNetCore.csprojResolveAssemblyReference.cache
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\obj\Debug\netcoreapp1.1\DotNetCore.AssemblyInfo.cs
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\obj\Debug\netcoreapp1.1\DotNetCore.dll
+c:\users\mgouzee\documents\visual studio 2017\Projects\DotNetCore\DotNetCore\obj\Debug\netcoreapp1.1\DotNetCore.pdb
